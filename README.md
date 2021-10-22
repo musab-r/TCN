@@ -8,7 +8,6 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 ------------
 To  reduce  the  size  of  Deep  Neural  Networks teacher-student techniques aim to transfer knowledge from a complex teacher network to a simple student network. Instead of using a single student network, we used multiple student networks (class of students).  Instead of transferring  knowledge  to  one  student  only,  the  proposed  method  divides  learn  space  into sub-spaces and each sub-space is learned by a student. Students are trained to mimic knowledge (dense representation) learned by the teacher network thus the combined knowledge learned by the class of students can be used to solve other problems. 
-https://arxiv.org/abs/2004.03281
 
 
 INSTALLATION
@@ -27,5 +26,9 @@ There are 4 folders MNIST, FashionMNIST, IMDB and CIFAR-10 that contain the note
 
 You can download the teacher network's weights (Weights.zip) from the link and use it for the training of student networks. 
 https://drive.google.com/drive/folders/18rroHf46VnUzMMckNJoNS19FzGFH3RyP?usp=sharing
+
+
+---------
+https://arxiv.org/abs/2004.03281
 
 
