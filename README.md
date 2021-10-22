@@ -1,0 +1,2 @@
+# Teacher-Class-Network-A-Neural-Network-Compression-Mechanism
+To reduce the overwhelming size of Deep Neural Networks teacher-student methodology tries to transfer knowledge from a complex teacher network to a simple student network. We instead propose a novel method called the teacher-class network consisting of a single teacher and multiple student networks (class of students). Instead of transferring knowledge to one student only, the proposed method transfers a chunk of knowledge to each student
