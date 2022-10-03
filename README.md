@@ -29,8 +29,8 @@ https://drive.google.com/drive/folders/18rroHf46VnUzMMckNJoNS19FzGFH3RyP?usp=sha
 
 
 ---------
-https://arxiv.org/abs/2004.03281
-
-https://www.bmvc2021-virtualconference.com/assets/papers/0831.pdf
-
+|                                                       Publisher                                                      |                                                                Link                                                                |
+|:--------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
+|               <img src="https://www.thomasehuang.com/arxiv.png" alt="arxiv" width="40px" height="20px">              |                  [Teacher-Class Network: A Neural Network Compression Mechanism](https://arxiv.org/abs/2004.03281)                 |
+| <img src="https://www.bmvc2021-virtualconference.com/assets/images/layout/bmvc-logo.png" width="60px" height="20px"> | [Teacher-Class Network: A Neural Network Compression Mechanism](https://www.bmvc2021-virtualconference.com/assets/papers/0831.pdf) |
 
